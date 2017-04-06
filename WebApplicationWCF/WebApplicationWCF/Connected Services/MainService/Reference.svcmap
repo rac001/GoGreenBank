@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="aee0a955-1b6c-43e8-99f6-6934b3f8b7e7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:58257/EmpService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="dbe70804-8589-4754-99ea-8503b8422335" SourceId="1" SourceUrl="http://localhost:58257/EmpService.svc?wsdl" />
+    <MetadataFile FileName="EmpService.xsd" MetadataType="Schema" ID="de99eaec-5681-4cef-a7b0-1e7ddccc1881" SourceId="1" SourceUrl="http://localhost:58257/EmpService.svc?xsd=xsd2" />
+    <MetadataFile FileName="EmpService1.xsd" MetadataType="Schema" ID="4c3ebc16-b56a-4cec-8bed-2dbab376e39a" SourceId="1" SourceUrl="http://localhost:58257/EmpService.svc?xsd=xsd3" />
+    <MetadataFile FileName="EmpService.disco" MetadataType="Disco" ID="69f19ae8-ca01-4e2a-bfa4-2a6b491fdfd5" SourceId="1" SourceUrl="http://localhost:58257/EmpService.svc?disco" />
+    <MetadataFile FileName="EmpService2.xsd" MetadataType="Schema" ID="1e298c1d-dae0-4ecd-990f-73927ba8ec3a" SourceId="1" SourceUrl="http://localhost:58257/EmpService.svc?xsd=xsd1" />
+    <MetadataFile FileName="EmpService3.xsd" MetadataType="Schema" ID="aa60a1dc-b41e-4c53-8e6e-16ca66068793" SourceId="1" SourceUrl="http://localhost:58257/EmpService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,6 @@
+G:\WCFNET\EmployeeServices\EmployeeServices\bin\EmployeeServices.dll.config
+G:\WCFNET\EmployeeServices\EmployeeServices\bin\EmployeeServices.dll
+G:\WCFNET\EmployeeServices\EmployeeServices\bin\EmployeeServices.pdb
+G:\WCFNET\EmployeeServices\EmployeeServices\obj\Debug\EmployeeServices.csprojResolveAssemblyReference.cache
+G:\WCFNET\EmployeeServices\EmployeeServices\obj\Debug\EmployeeServices.dll
+G:\WCFNET\EmployeeServices\EmployeeServices\obj\Debug\EmployeeServices.pdb
